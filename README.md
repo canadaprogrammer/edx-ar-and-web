@@ -46,4 +46,4 @@
   - Almost all Apps have these buttons: Save and Cancel
   - Save only when something changed
 
-Moved this notes to [edx first ios app](https://github.com/canadaprogrammer/edx-first-ios-app)
+Moved this notes to [edx first ios app](https://github.com/canadaprogrammer/edx-first-ios-app#more-complex-table-views)
